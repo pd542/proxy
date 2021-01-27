@@ -1,6 +1,4 @@
-/**
- * Module dependencies.
- */
+
 
 var net = require('net');
 var url = require('url');
